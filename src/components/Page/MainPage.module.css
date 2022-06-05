@@ -1,0 +1,12 @@
+.beer {
+    display: flex;
+    margin-top: 70px;
+    border: 1px solid gray;
+    padding: 30px;
+}
+
+.beer__image {
+    width: 15%;
+    border-right: 1px solid gray;
+    padding-right: 50px;
+}
